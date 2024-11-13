@@ -426,7 +426,8 @@ footer a img {
 
 .card h1 {
     text-decoration: underline;
-    font-variant: small-caps;
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 .card ul {
@@ -449,20 +450,38 @@ footer a img {
 }
 
 .gallery {
-    background-color: blue;
+    background-color: white;
     padding: 10px;
     margin: 10px;
 }
 
-.resume figure {
-    border: 1px #cccccc solid;
-    padding: 10px;
-    margin-left: 500px;
-    margin-right: 500px;
-    background-color: white;
+.gallery h1 {
+    font-size: 40px;
+    font-variant: small-caps;
+    color: black;
+    text-align: center;
 }
 
-.resume figure img {
+.gallery a {
+    text-decoration: underline;
+    font-size: 20px;
+    color: black;
+}
+
+.gallery iframe {
+    border-style: solid;
+    border-color: black;
+}
+
+.resume {
+    border: 1px #cccccc solid;
+    padding: 10px;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.resume img {
     border-color: black;
     border-style: solid;
 }
@@ -472,4 +491,33 @@ footer a img {
     font-style: italic;
     padding: 2px;
     text-align: center;
+}
+
+.corpus {
+    padding: 20px;
+    color: black;
+    max-width: 1080px;
+    margin: auto;
+    background-color: white;
+    border: 1px #cccccc solid;
+}
+
+.corpus h1 {
+    text-decoration: underline;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: black;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.corpus ul {
+    padding-left: 30px;
+    padding-bottom: 8px;
+}
+
+.corpus img {
+    border-color: black;
+    border-style: solid;
+    width: 100%;
 }
