@@ -515,3 +515,9 @@ footer a img {
     padding-left: 30px;
     padding-bottom: 8px;
 }
+
+.corpus img {
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
