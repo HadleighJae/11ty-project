@@ -1,13 +1,11 @@
 {
   "name": "11ty-project",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "model for developing an 11ty site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "eleventy --serve",
-    "build": "eleventy",
-    "deploy": "gh-pages -d _site"
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "",
