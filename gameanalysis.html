@@ -4,7 +4,7 @@
   <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>HOME</title>
+      <title>GAME ANALYSIS</title>
       <script src="js/javascript.js"></script>
       <link rel="stylesheet" href="css/style.css">
   </head>
@@ -25,67 +25,16 @@
   </div>
 </div>
 <div class="separator-nav"></div>
+        <div class="title">
+  <h1>GAME ANALYSIS</h1>
+</div>
 
-        <div class="body-row">
-      <div class="body-column left">
-        <div class="homeTitle">
-          <h1 id="title">Hadleigh's Website!</h1>
-        </div>
-      </div>
-      <div class="body-column right">
-        <div class="grid-container">
-          <a href="https://hadleighjae.github.io/portfolio/aboutwebsite.html"
-            style="flex-grow: 2; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/whiteDressCrystalFar.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
-            >ABOUT</a>
-          <a href="https://hadleighjae.github.io/portfolio/gallerywebsite.html"
-            style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/jpromgroupspook.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
-            >GALLERY</a>
-          <a href="https://hadleighjae.github.io/portfolio/gameanalysiswebsite.html"
-            style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/shroomtable.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
-            >ASSIGNMENTS</a>
-          <a href="https://hadleighjae.github.io/portfolio/resumewebsite.html"
-            style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/lizziePose.jpg?raw=true'); background-position: 50% 46%; background-size: cover"
-            >RESUME</a>
-          <a href="https://github.com/HadleighJae/portfolio"
-            style="flex-grow: 3; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/bookcovercropped.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
-            >GITHUB</a>
-        </div>
-      </div>
-    </div>
-<script>
-    // Function to reset menu when the screen is resized
-    window.onresize = function () {
-        var x = document.getElementById("myTopnav");
-        if (window.innerWidth > 600) {
-            x.className = "topnav";
-            // Reset to normal menu when screen is big
-        }
-    };
-    // Add hover effect using JavaScript for homeTitle h1
-    document.addEventListener("DOMContentLoaded", function () {
-        const title = document.getElementById("title");
-        title.addEventListener("mouseenter", function () {
-            title.style.textShadow =
-                "-1px 1px 1px #1d2b70, 1px 1px 1px #1d2b70, 1px -1px 1px #1d2b70, -1px -1px 1px #1d2b70, 2px 2px 1px #762851, 4px 4px 1px #d985fa, 6px 6px 1px #4ab5f8";
-        });
-        title.addEventListener("mouseleave", function () {
-            title.style.textShadow = "0px 0px #303030";
-        });
-    });
-    document.addEventListener("DOMContentLoaded", function () {
-        const gridLinks = document.querySelectorAll(".grid-container > a");
-        gridLinks.forEach(link => {
-            link.addEventListener("mouseenter", function () {
-                link.style.opacity = "1";
-                link.style.filter = "grayscale(0%)";
-            });
-            link.addEventListener("mouseleave", function () {
-                link.style.opacity = "0.6";
-                link.style.filter = "blur(1px) grayscale(50%)";
-            });
-        });
-    });
-    </script>
+        <div class="card">
+<img class="aboutImg" src="https://raw.githubusercontent.com/HadleighJae/portfolio/main/docs/images/shroommecropped.JPG" alt="me" />
+Hi! My name is Hadleigh Jae Bills. I am 20-years-old, and I am currently a Junior at Penn State Behrend.
+<p>Ever since I was young, I've always had a big imagination. Whether it be drawing, performing, or writing, I would always try to create something using these creative outlets. I think of my life as one big art project, and I want it to be a masterpiece.</p>
+<p>During my short 20 years on this planet, I have performed in over 35 shows, directed three show, and so much more! At the moment, however, my main focus is on getting through my fifth semester of college and making that experience the best it can be!</div></p>
+</div>
 
 
         <div class="separator-footer"></div>
