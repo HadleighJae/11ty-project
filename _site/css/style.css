@@ -9,17 +9,13 @@ body {
     font-family: 'Times New Roman', serif;
 }
 
-body {
-    background: #303030;
-    font-family: 'Times New Roman', serif;
-}
-
 p {
     font-size: 16px;
     line-height: 1.8;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
+    color: white;
 }
 
 a {
@@ -159,6 +155,14 @@ footer a img {
     width: 50%;
 }
 
+.body-column.L {
+    width: 65%;
+}
+
+.body-column.R {
+    width: 35%;
+}
+
 .body-row:after {
     content: "";
     display: table;
@@ -169,6 +173,21 @@ footer a img {
     .body-column.left,
     .body-column.right {
         width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width : 900px) {
+    .body-column.L,
+    .body-column.R {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (min-width : 900px) {
+    .body-column.L,
+    .body-column.R {
         height: 100%;
     }
 }
@@ -427,4 +446,30 @@ footer a img {
     content: "";
     clear: both;
     display: table;
+}
+
+.gallery {
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.resume figure {
+    border: 1px #cccccc solid;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+}
+
+.resume figure img {
+    border-color: black;
+    border-style: solid;
+}
+
+.resume figcaption {
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
 }
