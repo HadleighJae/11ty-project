@@ -1,7 +1,7 @@
 ---
-title: ABOUT
+title: GALLERY
 layout: layouts/normalLayout.njk
-permalink: "about.html"
+permalink: "gallery.html"
 ---
 
 <div class="card">

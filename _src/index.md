@@ -1,6 +1,7 @@
 ---
-title: Home
+title: HOME
 layout: layouts/outerLayout.njk
+permalink: "index.html"
 ---
 
 <div class="body-row">

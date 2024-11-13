@@ -1,7 +1,7 @@
 ---
-title: ABOUT
+title: RESUME
 layout: layouts/normalLayout.njk
-permalink: "about.html"
+permalink: "resume.html"
 ---
 
 <div class="card">

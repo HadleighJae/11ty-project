@@ -1,7 +1,7 @@
 ---
-title: ABOUT
+title: REFLECTION
 layout: layouts/normalLayout.njk
-permalink: "about.html"
+permalink: "reflection.html"
 ---
 
 <div class="card">

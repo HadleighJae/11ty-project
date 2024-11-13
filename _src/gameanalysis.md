@@ -1,7 +1,7 @@
 ---
-title: ABOUT
+title: GAME ANALYSIS
 layout: layouts/normalLayout.njk
-permalink: "about.html"
+permalink: "gameanalysis.html"
 ---
 
 <div class="card">

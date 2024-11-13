@@ -1,7 +1,7 @@
 ---
-title: ABOUT
+title: CORPUS ANALYSIS
 layout: layouts/normalLayout.njk
-permalink: "about.html"
+permalink: "corpusanalysis.html"
 ---
 
 <div class="card">
