@@ -12,16 +12,16 @@ permalink: "index.html"
       </div>
       <div class="body-column right">
         <div class="grid-container">
-          <a href="https://hadleighjae.github.io/portfolio/aboutwebsite.html"
+          <a href="about.html"
             style="flex-grow: 2; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/whiteDressCrystalFar.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
             >ABOUT</a>
-          <a href="https://hadleighjae.github.io/portfolio/gallerywebsite.html"
+          <a href="gallery.html"
             style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/jpromgroupspook.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
             >GALLERY</a>
-          <a href="https://hadleighjae.github.io/portfolio/gameanalysiswebsite.html"
+          <a href="gameanalysis.html"
             style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/shroomtable.JPG?raw=true'); background-position: 50% 46%; background-size: cover"
             >ASSIGNMENTS</a>
-          <a href="https://hadleighjae.github.io/portfolio/resumewebsite.html"
+          <a href="resume.html"
             style="flex-grow: 1; background-image: url('https://github.com/HadleighJae/portfolio/blob/main/docs/images/lizziePose.jpg?raw=true'); background-position: 50% 46%; background-size: cover"
             >RESUME</a>
           <a href="https://github.com/HadleighJae/portfolio"
