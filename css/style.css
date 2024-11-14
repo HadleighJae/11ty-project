@@ -25,7 +25,7 @@ a {
 h1 {
     font-size: 60px;
     color: white;
-    font-variant-caps: all-small-caps;
+    text-transform: uppercase;
 }
 
 h2 {
