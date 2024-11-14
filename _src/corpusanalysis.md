@@ -1,5 +1,5 @@
 ---
-title: CORPUS ANALYSIS
+title: Corpus Analysis
 layout: layouts/normalLayout.njk
 permalink: "corpusanalysis.html"
 ---

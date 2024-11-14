@@ -1,5 +1,5 @@
 ---
-title: GALLERY
+title: Gallery
 layout: layouts/normalLayout.njk
 permalink: "gallery.html"
 ---

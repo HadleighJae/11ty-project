@@ -1,5 +1,5 @@
 ---
-title: RESUME
+title: Resume
 layout: layouts/normalLayout.njk
 permalink: "resume.html"
 ---

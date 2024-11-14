@@ -1,5 +1,5 @@
 ---
-title: REFLECTION
+title: Reflection
 layout: layouts/normalLayout.njk
 permalink: "reflection.html"
 ---

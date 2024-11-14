@@ -1,5 +1,5 @@
 ---
-title: GAME ANALYSIS
+title: Game Analysis
 layout: layouts/normalLayout.njk
 permalink: "gameanalysis.html"
 ---

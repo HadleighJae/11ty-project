@@ -1,5 +1,5 @@
 ---
-title: ABOUT
+title: About
 layout: layouts/normalLayout.njk
 permalink: "about.html"
 ---

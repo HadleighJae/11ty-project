@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Home
 layout: layouts/outerLayout.njk
 permalink: "index.html"
 ---
