@@ -18,8 +18,8 @@ permalink: "gallery.html"
 <div class="body-column R">
 <div class="gallery">
 <h1>Photos</h1>
-  <a target="_blank" href="img/ResumeResume.jpg">Dear Data Project</a>
-  <a target="_blank" href="img/ResumeResume.jpg"><img src="img/digitproject.jpg" alt="Dear Data Project" style="width:100%"></a>
+  <a target="_blank" href="img/digitproject.jpg">Dear Data Project</a>
+  <a target="_blank" href="img/digitproject.jpg"><img src="img/digitproject.jpg" alt="Dear Data Project" style="width:100%"></a>
 </div>
 <div class="gallery">
 <h1>Videos</h1>
