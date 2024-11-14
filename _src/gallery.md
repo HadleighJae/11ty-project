@@ -18,8 +18,8 @@ permalink: "gallery.html"
 <div class="body-column R">
 <div class="gallery">
 <h1>Photos</h1>
-  <a href="https://embed.kumu.io/240d0b031e239f714239983f905eb2c1">Dear Data Project</a>
-  <img src="img/digitproject.jpg" alt="Dear Data Project" style="width:100%">
+  <a target="_blank" href="img/ResumeResume.jpg">Dear Data Project</a>
+  <a target="_blank" href="img/ResumeResume.jpg"><img src="img/digitproject.jpg" alt="Dear Data Project" style="width:100%"></a>
 </div>
 <div class="gallery">
 <h1>Videos</h1>
