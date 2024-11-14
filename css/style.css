@@ -22,10 +22,10 @@ a {
     color: white;
     text-decoration: none;
 }
-
 h1 {
-        font-size: 60px;
+    font-size: 60px;
     color: white;
+    font-variant-caps: all-small-caps;
 }
 
 h2 {
