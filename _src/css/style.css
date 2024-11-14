@@ -500,6 +500,8 @@ footer a img {
     margin: auto;
     background-color: white;
     border: 1px #cccccc solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .corpus h1 {
@@ -511,13 +513,27 @@ footer a img {
     text-align: center;
 }
 
+.corpus h2 {
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+
 .corpus ul {
     padding-left: 30px;
     padding-bottom: 8px;
+    color: black;
+}
+
+.corpus a {
+    color: black;
+    text-decoration: underline;
 }
 
 .corpus img {
     border-color: black;
     border-style: solid;
     width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
